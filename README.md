@@ -2,8 +2,8 @@
 
 investigating VRP. Project structure:
 
-- selling PUTs etf
-- SVIX
-- in and out of sample backtest for varaince swaps
-- TEST VRP
-- 
+- Create a list of academic papers 
+- VRP over time
+- Downside and Upside VRP
+- Connection To SRP(Skew Risk Premium)
+  
