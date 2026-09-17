@@ -1,4 +1,4 @@
-# Vol Products Dash Board
+# Vol Products Dashboard
 
 This is an interactive dashboard of different types of derivatives to trade volatiltly.
 
