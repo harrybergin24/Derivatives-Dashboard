@@ -2,7 +2,7 @@
 
 This is an interactive dashboard of different types of derivatives to trade volatiltly.
 
-### Plain Variance swaps 
+### Plain Swaps 
 <a href="https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/" target="_blank">
   <img src="https://img.shields.io/badge/Volatility_Swaps_chain-007ACC?style=for-the-badge" alt="Open Dashboard" />
 </a>
