@@ -1,6 +1,6 @@
 # Vol Products Dashboard
 
-This is an interactive dashboard of different types of derivatives to trade volatiltly.
+This is an interactive dashboard of different types of derivatives to trade volatiltly. Below are the links to each of the price chains for the different swaps. Docmentation of the methodolgy in greater detial is this folder PUT FOLDER LINK HERE.
 
 ### Plain Swaps 
 <a href="https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/" target="_blank">
