@@ -5,6 +5,6 @@ This is a derivatives trading dashboard, in this project I give prices for a ran
 ## Fixed income Derivatives
 Clicking on the link above takes you to prices and data for fixed income products 
 
-## Volatility derivatives
+## [Volatility derivatives](Vol_derivatives/vol_products_dashboard.md>)
 Here you can find a volatility trading dashboard providing insights and metrics pertaining to trading volatility, alongside this there are prices for multiple products such as variance swaps, forward starting swaps and other volatility derivative products.
 
