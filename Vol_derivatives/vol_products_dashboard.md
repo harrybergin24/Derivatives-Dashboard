@@ -7,7 +7,7 @@ Add here vol surface, forward variance curves etc.
 ## Products
 ### Plain Swaps 
 
-<a href="https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/" target="_blank">
+<a href="https://github.com/harrybergin24/Derivatives-Dashboard/blob/85dea242bc5ac86927a109c563b318a9693dc1d2/Vol_derivatives/variance_swap_chain%20(1).ipynb" target="_blank">
   <img src="https://img.shields.io/badge/Variance_Swaps_chain-007ACC?style=for-the-badge" alt="Open Dashboard" />
 </a>
 
