@@ -1,8 +1,7 @@
 # Volatility Derivatives Dashboard
 
 This is an interactive dashboard of different types of derivatives to trade volatility. Below are the links to each of the price chains for the different swaps. Documentation of the methodology in greater detail is this folder PUT FOLDER LINK HER
-
-Add here vol surface, forward variance curves etc.
+. 
 
 ## Products
 ### Plain Swaps 
