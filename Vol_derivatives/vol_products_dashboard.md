@@ -6,7 +6,7 @@ This is an interactive dashboard of different types of derivatives to trade vola
 ## Products
 ### Plain Swaps 
 
-<a href="https://github.com/harrybergin24/Derivatives-Dashboard/blob/2027efb33609db453fa16505aa8ff4556dc3ce56/Vol_derivatives/variance_swap_chain%20(2).ipynb" target="_blank">
+<a href="https://github.com/harrybergin24/Derivatives-Dashboard/blob/2027efb33609db453fa16505aa8ff4556dc3ce56/Vol_derivatives/variance_swaps_files/variance_swap_chain (2).ipynb" target="_blank">
   <img src="https://img.shields.io/badge/Variance_Swaps_chain-007ACC?style=for-the-badge" alt="Open Dashboard" />
 </a>
 
