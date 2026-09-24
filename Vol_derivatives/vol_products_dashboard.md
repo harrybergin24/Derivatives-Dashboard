@@ -6,7 +6,7 @@ This is an interactive dashboard of different types of derivatives to trade vola
 ## Products
 ### Plain Swaps 
 
-[Variance Swap Prices](<variance_swaps_files/variance_swap_chain (2).ipynb>)
+**[Variance Swap Prices](<variance_swaps_files/variance_swap_chain (2).ipynb>)** 
 
 
 <a href="https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/" target="_blank">
