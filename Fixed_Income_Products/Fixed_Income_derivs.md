@@ -6,9 +6,8 @@ put here a BGM vol surface
 
 
 ## Products
-<a href="https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/" target="_blank">
-  <img src="https://img.shields.io/badge/Intrest_Rate_Swaps-007ACC?style=for-the-badge" alt="Open Dashboard" />
-</a>
+[Interest Rate Swaps](<>)
+
 
 <a href="https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/" target="_blank">
   <img src="https://img.shields.io/badge/Foward_Starting_Intrest_Rate_Swaps_chain-2ea44f?style=for-the-badge" alt="Open Dashboard" />
