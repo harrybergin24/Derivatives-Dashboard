@@ -1,6 +1,6 @@
 # Derivatives Dashboard
 
-This is a derivatives trading dashboard, in this project I give prices for a range of different derivatives in the two catergoeis of assets below. There is also a dashboard that comes along with the prices that gives key information about the market for that asset class.
+This is a derivatives trading dashboard, in this project I give prices for a range of different derivatives in the two categories of assets below. There is also a dashboard that comes along with the prices that gives key information about the market for that asset class. Also for each product there is a documentation which goes through the mathematics behind pricing the instrument as well as the code which performs the pricing operations. 
 
 ## [Fixed income Derivatives](<Fixed_Income_Products/Fixed_Income_derivs.md>)
 Clicking on the link above takes you to prices and data for fixed income products 
