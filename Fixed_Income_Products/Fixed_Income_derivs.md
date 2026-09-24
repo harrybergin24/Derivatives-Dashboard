@@ -14,9 +14,6 @@ put here a BGM vol surface
 </a>
 
 ### Futures and Forwards
-<a href="https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/" target="_blank">
-  <img src="https://img.shields.io/badge/Forward_Rate_Agreement-7c3aed?style=for-the-badge" alt="Open Dashboard" />
-</a>
 
 <a href="https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/" target="_blank">
   <img src="https://img.shields.io/badge/Intrest_Rate_Futures-06b6d4?style=for-the-badge" alt="Open Dashboard" />
