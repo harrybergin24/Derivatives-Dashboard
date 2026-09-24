@@ -6,7 +6,7 @@ put here a BGM vol surface
 
 
 ## Products
-**[Interest Rate Swaps](<Swaps_documentation/Valuing_FRA_s_and_Interest_Rate_Swaps.pdf>)**
+**[Interest Rate Swaps](<Swaps_documentation/IRS.md>)**
 
 
 <a href="https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/" target="_blank">
