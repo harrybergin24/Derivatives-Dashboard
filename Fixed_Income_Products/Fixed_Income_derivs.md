@@ -1,6 +1,5 @@
 # Fixed Income Derivatives -  In progress
-
-I am working on putting a BGM vol surface as well as other key metrics to look at when looking at fixed income derivatives. 
+I am updating this from a single curve framework to a multi-curve framework. 
 
 ## Products
 **[Interest Rate Swaps](<Swaps_documentation/IRS.md>)**
